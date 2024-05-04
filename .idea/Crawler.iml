@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/b站视频/开车 第一视角" />
+      <excludeFolder url="file://$MODULE_DIR$/b站视频/美女" />
+      <excludeFolder url="file://$MODULE_DIR$/二手车图片/img" />
+      <excludeFolder url="file://$MODULE_DIR$/yande/img" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.10 (crawler)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

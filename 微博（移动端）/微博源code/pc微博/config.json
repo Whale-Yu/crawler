@@ -1,0 +1,10 @@
+{
+  "keywords" : ["新冠疫情 谣言"],
+  "startPage" : 1,
+  "maxPage" : 100,
+  "headers" : {
+    "Connection": "close",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62",
+    "cookie": "UOR=cn.bing.com,weibo.com,cn.bing.com; SINAGLOBAL=923607874180.2389.1641879129769; login_sid_t=ca4d8750591a2da2fabe6c9c2799b803; cross_origin_proto=SSL; _s_tentry=passport.weibo.com; Apache=7330635526275.265.1658468938764; ULV=1658468938766:2:1:1:7330635526275.265.1658468938764:1641879129772; WBtopGlobal_register_version=2022072213; SSOLoginState=1658469061; SUB=_2A25P3kqVDeRhGeNG6lQZ-SvOyziIHXVtIVbdrDV8PUJbkNAKLRH9kW1NS26xPAOftQCtH5uwgpmVuMpH6qAB_yxZ; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWOHp8SW4P9S9xTrh2V2L1e5NHD95Qf1h2c1h.feo5XWs4Dqcjci--fi-82i-2ci--4iKLhi-zRi--Xi-isiKyWi--Xi-zRiKn7i--NiKLFi-zXi--fiKLhi-2R"
+  }
+}
